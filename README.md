@@ -1,5 +1,7 @@
 # DooitPlugin (Dank Material Shell / Quickshell)
 
+![Screenshot](./screenshots/image.png)
+
 A small DMS (Dank Material Shell) / Quickshell plugin that displays your **Dooit** todo stats in the top bar and shows a popout with your todo lists.
 
 It uses a **Python backend** to fetch todos from Dooit and returns a single JSON payload. The QML plugin executes that script periodically, parses the JSON, and renders:
